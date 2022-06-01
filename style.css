@@ -6,6 +6,7 @@ h1{
 @media screen and (max-width: 1200px) {
     main {
       width: 90%;
+      height: 100%;
     }
     h1{
         font-size: xx-large;
