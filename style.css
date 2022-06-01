@@ -3,7 +3,7 @@ h1{
     font-size: 3.5em;
     color: rgb(131, 127, 127);
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1600px) {
     main {
       width: 90%;
       height: 100%;
